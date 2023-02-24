@@ -1,4 +1,4 @@
-ä¸­æ–‡æµ‹è¯•
-(defun name (ARGUMENTS / PRIVATE-VARIABLES) "å‡½æ•°åŠŸèƒ½è¯´æ˜Ž" "å‡½æ•°è¿”å›žå€¼" exprs)
+ÖÐÎÄ²âÊÔ
+(defun name (ARGUMENTS / PRIVATE-VARIABLES) "º¯Êý¹¦ÄÜËµÃ÷" "º¯Êý·µ»ØÖµ" exprs)
 
-æ±‰å­—
+ºº×Ö
