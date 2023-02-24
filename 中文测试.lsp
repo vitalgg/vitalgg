@@ -1,8 +1,9 @@
 (defun c:ttb  () 
-"å‡½æ•°åŠŸèƒ½è¯´æ˜Ž" "å‡½æ•°è¿”å›žå€¼"
-(princ "å‡½æ•°åŠŸèƒ½è¯´æ˜Ž")
-(princ "å‡½æ•°åŠŸèƒ½è¯´æ˜Ž")
-(princ "å‡½æ•°åŠŸèƒ½è¯´æ˜Ž")
-(princ "å‡½æ•°åŠŸèƒ½è¯´æ˜Ž")
+"º¯Êý¹¦ÄÜËµÃ÷" "º¯Êý·µ»ØÖµ"
+(princ "º¯Êý¹¦ÄÜËµÃ÷")
+(princ "º¯Êý¹¦ÄÜËµÃ÷")
+(princ "º¯Êý¹¦ÄÜËµÃ÷")
+(princ "º¯Êý¹¦ÄÜËµÃ÷")
+
 (setq a 8)
 (princ a))
